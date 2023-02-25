@@ -1,4 +1,4 @@
-# Hi there, I'm [Collin](https://github.com/cldrake01)!
+# Hi there, I'm [Collin]()!
 
 I've built a few things before, here's some of them:
 
