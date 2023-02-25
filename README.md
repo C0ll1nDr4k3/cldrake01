@@ -1,4 +1,4 @@
-# Hi there, I'm [Collin]()!
+# Hi there, I'm [Collin]!
 
 I've built a few things before, here's some of them:
 
