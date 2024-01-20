@@ -1,7 +1,8 @@
 # Hi there, I'm Collin!
 
-I've built a few things before, here's some of them:
+I'm a junior at [Peak to Peak Charter School](peaktopeak.org) and I'm interested in all things ml.
 
-* [A ChatGPT driven webapplication to automate CTEC Solar's land acquisition process, which matched their prior anual output in under 22 minuets.](https://github.com/cldrake01/ctech_land_acquisition.git)
+I'm prodest of:
 
-* [A ChatGPT driven Docker application that responds to all emails within a given inbox.]()
+- [sibyl](https://github.com/cldrake01/sibyl) A project that allows me to test various transformers on financial time series data.
+- [Student-Aided-Design](https://github.com/Peak-to-Peak-Engineering/Student-Aided-Design) A minimal website where teachers at Peak to Peak can request items and curiculum involving CAD and 3d printing for their classes.
