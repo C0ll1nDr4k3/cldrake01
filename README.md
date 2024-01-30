@@ -1,6 +1,6 @@
 # Hi there, I'm Collin!
 
-I'm a junior at [Peak to Peak Charter School](peaktopeak.org) and I'm interested in all things ml.
+I'm a junior at [Peak to Peak Charter School](https://peaktopeak.org/) and I'm interested in all things ml.
 
 I'm proudest of:
 
